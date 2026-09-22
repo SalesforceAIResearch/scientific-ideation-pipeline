@@ -1,4 +1,5 @@
-# Insight Synthesis — GRPO-v6-SI Reward/Training + Impact/Diversity/Creative-Utility Eval
+# Research Idea and Insight Synthesis
+##GRPO-v6-SI Reward/Training + Impact/Diversity/Creative-Utility Eval
 
 This is a code release repo for Training Reasoning Models to Generate Diverse Research Ideas. 
 This code has the training objective along with the evaluation harness that scores impact, diversity, and
